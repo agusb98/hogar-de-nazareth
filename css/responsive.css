@@ -6,8 +6,9 @@
     height: auto;
   }
 
-  .index-hero .holii {
+  .index-hero .img-carousel {
     max-height: 300px;
+    border-radius: 0;
   }
 
   .header_section {

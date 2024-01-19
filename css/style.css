@@ -57,11 +57,24 @@ img {
   width: 30px;
 }
 
-.index-hero .holii {
+.index-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  width: 100%;
+}
+
+.index-hero .carousel {
+  max-width: 1300px;
+}
+
+.index-hero .img-carousel {
   width: 100%;
   height: 100%;
 
   height: 90vh;
+  border-radius:0.5rem;
 }
 
 .btn-indicators {
