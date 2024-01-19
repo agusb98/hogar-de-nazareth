@@ -6,6 +6,10 @@
     height: auto;
   }
 
+  .index-hero .holii {
+    max-height: 300px;
+  }
+
   .header_section {
     padding-top: 10px;
   }
