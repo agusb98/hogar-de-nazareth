@@ -43,6 +43,10 @@
   .header-hero .bg-image p {
     background-color: #00000060;
   }
+
+  .document_section .content-modal {
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 768px) {
